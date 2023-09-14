@@ -1,2 +1,1 @@
-# romanegallienne
-github page
+# Romane Gallienne, Chargée d'études au CNRS
