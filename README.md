@@ -35,5 +35,5 @@ Objectif : Construire un système générant des résumés abstractifs de conver
 
 ## Publications
 
-Romane Gallienne, Thierry Poibeau. _Quelques observations sur la notion de biais dans les modèles de langue._ 18e Conférence en Recherche d'Information et Applications -- 16e Rencontres Jeunes Chercheurs en RI -- 30e Conférence sur le Traitement Automatique des Langues Naturelles -- 25e Rencontre des Étudiants Chercheurs en Informatique pour le Traitement Automatique des Langues, Jun 2023, Paris, France. pp.1-13. ⟨hal-04130210⟩
+Romane Gallienne, Thierry Poibeau. _Quelques observations sur la notion de biais dans les modèles de langue._ 18e Conférence en Recherche d'Information et Applications -- 16e Rencontres Jeunes Chercheurs en RI -- 30e Conférence sur le Traitement Automatique des Langues Naturelles -- 25e Rencontre des Étudiants Chercheurs en Informatique pour le Traitement Automatique des Langues, Jun 2023, Paris, France. pp.1-13. ⟨[hal-04130210](https://hal.science/hal-04130210)⟩
 
