@@ -2,7 +2,7 @@
 
 ## Expérience Professionnelle
 
-**Depuis Novembre 2022 **: Chargée d'études "Usages de l'IA" au CNRS - Rattachée au laboratoire [Lattice}(https://www.lattice.cnrs.fr/) (Montrouge, 92)  
+**Depuis Novembre 2022**: Chargée d'études "Usages de l'IA" au CNRS - Rattachée au laboratoire [Lattice](https://www.lattice.cnrs.fr/) (Montrouge, 92)  
 - Etude des biais sociaux (racisme, sexisme) dans les grands modèles de langue (LLM) de type GPT (_Generative Pretrained Transformers_, GPT-* d'OpenAI, Bloom de BigScience) pour le français
 - Finetuning d'un modèle anglophone ([Llama-2](https://ai.meta.com/llama/)) pour le français - _en cours_
   
