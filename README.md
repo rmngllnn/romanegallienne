@@ -1,4 +1,4 @@
-# Romane Gallienne, Chargée d'études au CNRS
+# Actuellement Chargée d'études au CNRS
 
 ## Expérience Professionnelle
 
